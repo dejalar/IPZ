@@ -4,7 +4,7 @@
 
 ![Demo](object-track.gif)
 
-[![Edit cranky-keller-cp4ms](https://codesandbox.io/s/pedantic-cherry-npfol?file=/src/index.js)
+[![Для редагування і тестування -](https://codesandbox.io/s/pedantic-cherry-npfol?file=/src/index.js)
 
 ### Simple object tracking with TensorFlow.js.
 
