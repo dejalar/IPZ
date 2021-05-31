@@ -4,18 +4,19 @@
 
 ![Demo](cat.gif)
 
+### Посилання для редагування та тестування
 https://codesandbox.io/s/pedantic-cherry-npfol?file=/src/index.js
 
-### Simple object tracking with TensorFlow.js.
+### Просте відстеження об'єктів за допомогою TensorFlow.js.
 
-Just draw a box and track it as it moves across the video, no training required.
+Просто намалюйте квадрат та відстежуйте його, як він рухається в відео, ніякого навчання не потрібно.
 
-## Installation
+## Встановлення
 ```bash
 npm install @cloud-annotations/object-tracking
 ```
 
-## Usage
+## Використання
 ```js
 import objectTracker from '@cloud-annotations/object-tracking'
 
@@ -35,7 +36,7 @@ const boxN = await tracker.next(frameN)
 [x, y, width, height]
 ```
 
-## Usage via Script Tag
+## Використання за допомогою тегу скрипта
 ```html
 <script src="https://cdn.jsdelivr.net/npm/@cloud-annotations/object-tracking"></script>
 ```
