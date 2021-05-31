@@ -4,8 +4,8 @@
 
 ![Demo](cat.gif)
 
-### Посилання для редагування та тестування
-https://codesandbox.io/s/wonderful-ramanujan-0wzxn
+### Посилання для тестування
+https://0wzxn.csb.app/
 
 ### Просте відстеження об'єктів за допомогою TensorFlow.js.
 
