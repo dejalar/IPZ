@@ -1,0 +1,44 @@
+{
+  "name": "@cloud-annotations/object-tracking",
+  "version": "0.0.5",
+  "description": "Simple object tracking in js",
+  "jsdelivr": "dist/object-tracking.min.js",
+  "keywords": [
+    "object tracking",
+    "machine learning",
+    "bounding boxes"
+  ],
+  "main": "dist/object-tracking.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloud-annotations/object-tracking-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cloud-annotations/object-tracking-js/issues"
+  },
+  "homepage": "https://github.com/cloud-annotations/object-tracking-js",
+  "author": "Nick Bourdakos",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.6.0",
+    "@tensorflow/tfjs": "1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/plugin-transform-runtime": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "rimraf": "^3.0.0",
+    "rollup": "^1.21.4",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-uglify": "^6.0.3"
+  },
+  "scripts": {
+    "build": "rimraf dist",
+    "deploy": "yarn build && rollup -c && yarn publish --access public"
+  },
+  "files": [
+    "/dist"
+  ]
+}
