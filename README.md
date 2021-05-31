@@ -5,7 +5,7 @@
 ![Demo](cat.gif)
 
 ### Посилання для редагування та тестування
-https://codesandbox.io/s/pedantic-cherry-npfol?file=/src/index.js
+https://codesandbox.io/s/wonderful-ramanujan-0wzxn
 
 ### Просте відстеження об'єктів за допомогою TensorFlow.js.
 
