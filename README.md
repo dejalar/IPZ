@@ -2,7 +2,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@cloud-annotations/object-tracking.svg)](https://npmjs.org/package/@cloud-annotations/object-tracking)
 [![NPM Downloads](https://img.shields.io/npm/dm/@cloud-annotations/object-tracking.svg)](https://npmjs.org/package/@cloud-annotations/object-tracking)
 
-![Demo](object-track.gif)
+![Demo](cat.gif)
 
 https://codesandbox.io/s/pedantic-cherry-npfol?file=/src/index.js
 
