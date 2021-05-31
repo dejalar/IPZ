@@ -1,4 +1,4 @@
-# Object Tracking JavaScript SDK
+# Трекінг об'єктів за допомогою JavaScript SDK
 [![NPM Version](https://img.shields.io/npm/v/@cloud-annotations/object-tracking.svg)](https://npmjs.org/package/@cloud-annotations/object-tracking)
 [![NPM Downloads](https://img.shields.io/npm/dm/@cloud-annotations/object-tracking.svg)](https://npmjs.org/package/@cloud-annotations/object-tracking)
 
